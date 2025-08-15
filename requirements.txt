@@ -8,3 +8,5 @@ tensorboard
 keras
 streamlit
 ipykernel
+scikeras
+scikeras[tensorflow]
