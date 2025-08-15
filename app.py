@@ -1,8 +1,8 @@
-import streamlit as st
+import streamlit as st # type: ignore
 import pandas as pd
 import numpy as np
 import pickle
-import tensorflow as tf
+import tensorflow as tf # type: ignore
 from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
 import warnings
 from warnings import filterwarnings
